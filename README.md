@@ -1,12 +1,11 @@
 # MaksadAshirov.
-# 👋 Hi, I'm [Ваше имя]  
+# 👋 Hi, I'm [Maksad]  
 
 🔥 **About Me**  
-- 🌱 Currently working on [ваш проект]  
-- 🌱 Learning Frontend and Backend technologies  
+- 🌱 Learning Frontend technologies  
 - 🤝 Looking to collaborate on Open Source Projects  
 - 🚀 Passionate about using API, Web Development, and Automation  
-- 📫 Reach me at: [ваш email]  
+- 📫 Reach me at: [maksadashiirov@gmail.com]  
 
 ## 🚀 Technologies & Tools  
 
