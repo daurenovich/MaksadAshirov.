@@ -1,11 +1,11 @@
 # MaksadAshirov.
-# 👋 Hi, I'm [Maksad]  
+# 👋 Hi, I'm Maksad
 
 🔥 **About Me**  
 - 🌱 Learning Frontend technologies  
 - 🤝 Looking to collaborate on Open Source Projects  
 - 🚀 Passionate about using API, Web Development, and Automation  
-- 📫 Reach me at: [maksadashiirov@gmail.com]  
+- 📫 Reach me at: maksadashiirov@gmail.com
 
 ## 🚀 Technologies & Tools  
 
