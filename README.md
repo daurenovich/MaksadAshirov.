@@ -15,15 +15,12 @@
 - ![CSS](https://img.shields.io/badge/-CSS-CSS?style=flat&logo=css3)  
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-JS?style=flat&logo=javascript)  
 - ![React](https://img.shields.io/badge/-React-React?style=flat&logo=react)  
-- ![Next.js](https://img.shields.io/badge/-Next.js-Next.js?style=flat&logo=next.js)  
-- ![Vue.js](https://img.shields.io/badge/-Vue.js-Vue.js?style=flat&logo=vue.js)  
+- ![Next.js](https://img.shields.io/badge/-Next.js-Next.js?style=flat&logo=next.js) 
 
 ### Languages  
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-JS?style=flat&logo=javascript)  
-- ![C++](https://img.shields.io/badge/-C++-C++?style=flat&logo=c)  
 
 ### Tools  
 - ![Git](https://img.shields.io/badge/-Git-Git?style=flat&logo=git)  
 - ![Vercel](https://img.shields.io/badge/-Vercel-Vercel?style=flat&logo=vercel)  
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-VSCode?style=flat&logo=visualstudio)  
-- ![Postman](https://img.shields.io/badge/-Postman-Postman?style=flat&logo=postman)  
